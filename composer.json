@@ -6,6 +6,12 @@
     "require": {
         "php": ">=7.4.0"
     },
+    "repositories": [
+        { 
+            "type": "vcs", 
+            "url": "https://github.com/niyativoracygnet/module-cart" 
+        }
+    ],
     "type": "magento2-module",
     "version": "1.0.0",
     "autoload": {
