@@ -1,6 +1,13 @@
 {
     "name": "dividebuy/module-cart",
     "description": "Dividebuy Cart",
+    "license": "MIT",
+    "repositories": [
+        {
+            "url": "https://github.com/niyativoracygnet/module-cart.git",
+            "type": "git"
+        }
+    ],
     "require": {
         "php": ">=7.4.0",
     },
