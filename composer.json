@@ -1,5 +1,5 @@
 {
-    "name": "niyativoracygnet/module-cart",
+    "name": "dividebuy/module-cart",
     "description": "Dividebuy Cart",
     "license": "MIT",
     "repositories": [
@@ -9,7 +9,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/niyativoracygnet/module-cart.git",
+            "url": "https://github.com/niyativoracygnet/module-cart.git"
         }
     ],
     "homepage": "https://github.com/niyativoracygnet/module-cart",
