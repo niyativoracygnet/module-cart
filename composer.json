@@ -4,10 +4,15 @@
     "license": "MIT",
     "repositories": [
         {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        },
+        {
+            "type": "git",
             "url": "https://github.com/niyativoracygnet/module-cart.git",
-            "type": "git"
         }
     ],
+    "homepage": "https://github.com/niyativoracygnet/module-cart",
     "require": {
         "php": ">=7.4.0",
     },
