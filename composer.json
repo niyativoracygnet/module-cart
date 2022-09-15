@@ -18,5 +18,7 @@
         "psr-4": {
             "Dividebuy\\Cart\\": ""
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true,
 }
