@@ -1,21 +1,13 @@
 {
-    "name": "dividebuy/module-cart",
+    "name": "dividebuym2/module-cart",
     "description": "Dividebuy Cart",
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://repo.magento.com/"
-        },
-        {
-            "type": "git",
-            "url": "https://github.com/niyativoracygnet/module-cart.git"
-        }
-    ],
     "homepage": "https://github.com/niyativoracygnet/module-cart",
     "require": {
         "php": ">=7.4.0"
     },
+    "type": "magento2-module",
+    "version": "1.0.0",
     "license": [
         "Commercial"
     ],
